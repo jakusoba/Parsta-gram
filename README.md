@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Instagram](https://user-images.githubusercontent.com/63765884/97064392-81522a00-1573-11eb-8fdc-f855601790f6.gif)
 
 GIF created with [Kap].
 
