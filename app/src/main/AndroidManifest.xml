@@ -11,6 +11,7 @@
         android:icon="@mipmap/icon"
         android:label="Instagram"
         android:roundIcon="@mipmap/icon"
+        android:usesCleartextTraffic="true"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <provider
