@@ -34,6 +34,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![IG](https://user-images.githubusercontent.com/63765884/97766652-c0d9c280-1aed-11eb-8670-08e94727cb5c.gif)
+
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
